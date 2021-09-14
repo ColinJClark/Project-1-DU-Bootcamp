@@ -8,7 +8,7 @@ The following is a description of implementing the requirements for Project 1 co
 - The .yml files may be used selectively to partially install a stack portion, such as only deploying Metricbeat.<br />
 
 # Network Diagram Topology
-[](https://github.com/ColinJClark/Project-1-DU-Bootcamp/blob/main/Diagrams/3%20VMs%20from%20Jumpbox%20Virtual%20Network.png?raw=true)
+![alt text](http://url/to/img.png)
 - The deployed network is used to exploit an exposed monitored DVWA<br />
 - The network is load balanced<br />
 - Following are details of each VM listed as NAME:FUNCTION:IP ADDRESS:OS<br />
