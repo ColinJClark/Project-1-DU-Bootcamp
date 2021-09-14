@@ -1,6 +1,7 @@
 # Project-1-DU-Bootcamp
 A repository of collected material for Project 1 6/23<br />
-The following is a description of implementing the requirements for Project 1 concerning deployment and monitoring of an ELK Stack
+The following is a description of implementing the requirements for Project 1 concerning deployment and monitoring of an ELK Stack. A jumpbox provisioner will be used to deploy three separate VMs. None of these machines will be connected to the public internet, but the JumpBox will be accesible from a personal IP. <br />
+All .yml playbooks are available in this repository.
 
 
 # ELK Stack Deployment
